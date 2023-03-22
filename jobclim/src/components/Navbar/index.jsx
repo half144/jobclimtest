@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <Nav>
             <Logo>
-                <img src="/src/assets/logo.png" alt="Logo" />
+                <img src="https://i.imgur.com/3GcuGlN.png" alt="Logo" />
             </Logo>
             <User>
                 <UserPhoto>
